@@ -1,0 +1,14 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.not-found-img {
+  width: 40%;
+}
+.not-found-message{
+    color: rgb(58, 188, 58);
+    font-size: 30px;
+}
