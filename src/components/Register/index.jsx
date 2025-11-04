@@ -80,7 +80,7 @@
                      </div>
                      <button type="submit" className="register-button">Register</button>
                      {errorMsg&&<p className="error-message">*{errorMsg}</p>}
-                     <p>
+                     <p className="message">
                          Already have an account?{' '}
                          <Link to="/login" className="signin-text">Sign in</Link>
                      </p>

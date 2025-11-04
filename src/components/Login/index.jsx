@@ -73,7 +73,7 @@ class Login extends Component{
                     </div>
                     <button type="submit" className="login-button">Login</button>
                     {errorMsg&&<p className="error-message">*{errorMsg}</p>}
-                    <p>
+                    <p className="message">
                         Don't have an account?{' '}
                         <Link to="/register" className="signup-text">Sign up</Link>
                     </p>

@@ -1,6 +1,7 @@
 .nav-header {
   display: flex;
   justify-content: center;
+  background-color: #ffffff;
   border-bottom: 1px solid rgb(243, 243, 243);
 }
 

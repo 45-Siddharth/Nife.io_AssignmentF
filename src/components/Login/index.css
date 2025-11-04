@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .login-background{
+    background-color: #ffffff;
     height: 100vh;
     background-size:cover;
     display:flex;

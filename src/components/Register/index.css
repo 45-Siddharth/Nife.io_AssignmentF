@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .register-background{
+    background-color: #ffffff;
     height: 100vh;
     background-size:cover;
     display:flex;
@@ -73,4 +74,8 @@
 
 .signin-text{
     color: rgb(5, 5, 227);
+}
+
+.message{
+  color: black;
 }
